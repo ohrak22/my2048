@@ -1,0 +1,16 @@
+C:\Work\MyGithub\my2048\My2048\My2048\bin\Debug\My2048.dll
+C:\Work\MyGithub\my2048\My2048\My2048\bin\Debug\My2048.pdb
+C:\Work\MyGithub\my2048\My2048\My2048\bin\Debug\My2048.My2048.apk
+C:\Work\MyGithub\my2048\My2048\My2048\bin\Debug\My2048.My2048-Signed.apk
+C:\Work\MyGithub\my2048\My2048\My2048\obj\Debug\My2048.csprojResolveAssemblyReference.cache
+C:\Work\MyGithub\my2048\My2048\My2048\obj\Debug\My2048.dll
+C:\Work\MyGithub\my2048\My2048\My2048\obj\Debug\My2048.pdb
+C:\Work\MyGithub\my2048\My2048\My2048\obj\Debug\android\bin\My2048.My2048.apk
+C:\Work\MyGithub\my2048\My2048\My2048\obj\Debug\res\layout\main.xml
+C:\Work\MyGithub\my2048\My2048\My2048\obj\Debug\res\values\strings.xml
+C:\Work\MyGithub\my2048\My2048\My2048\obj\Debug\res\drawable\icon.png
+C:\Work\MyGithub\my2048\My2048\My2048\obj\Debug\R.cs.flag
+C:\Work\MyGithub\my2048\My2048\My2048\obj\Debug\uploadflags.txt
+C:\Work\MyGithub\my2048\My2048\My2048\bin\Debug\My2048.dll.mdb
+C:\Work\MyGithub\my2048\My2048\My2048\obj\Debug\android\assets\My2048.dll.mdb
+C:\Work\MyGithub\my2048\My2048\My2048\obj\Debug\res\drawable\mainbg.png

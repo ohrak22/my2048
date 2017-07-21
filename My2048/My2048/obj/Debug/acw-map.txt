@@ -1,0 +1,4 @@
+My2048.MainActivity, My2048;md5a443096784c7caa3e171ea3ac190bd0e.MainActivity
+My2048.MainActivity, My2048, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a443096784c7caa3e171ea3ac190bd0e.MainActivity
+My2048.MainActivity;md5a443096784c7caa3e171ea3ac190bd0e.MainActivity
+my2048.MainActivity;md5a443096784c7caa3e171ea3ac190bd0e.MainActivity

@@ -1,0 +1,2 @@
+android.app.Application
+My2048.My2048
